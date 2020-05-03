@@ -1,2 +1,2 @@
 # ar-example
-Use ar-js and th aframe
+Used ar-js and th aframe
